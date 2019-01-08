@@ -312,5 +312,5 @@ header.masthead p {
 }
 
 .wrapper {
-min-height:calc(100vh-120px);
+min-height:100vh;
 }
